@@ -5,6 +5,8 @@
 * 🌍  I'm based in Chaingmai, Thailand
 * 🧠  I'm learning React Framework
 
+$~~~~~~~~~~~$
+
 <!--
 **pluem544/pluem544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,6 +24,6 @@ Here are some ideas to get you started:
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=pluem544&show_icons=true&theme=dark" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluem544&show_icons=true&theme=dark">
+<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pluem544&show_icons=true&theme=dark">
 
 
