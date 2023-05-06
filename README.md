@@ -1,4 +1,9 @@
-### Hi there 👋
+ # Hi  My name is Pluem Piamprasong 👋
+
+🌱 I’m currently learning and working on HTML, CSS, JS, React
+
+* 🌍  I'm based in Chaingmai, Thailand
+* 🧠  I'm learning React Framework
 
 <!--
 **pluem544/pluem544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
